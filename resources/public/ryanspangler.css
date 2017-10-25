@@ -1,0 +1,72 @@
+body 
+{
+  color: #77bb99;
+  background: #010101;
+}
+
+a:link
+{ 
+  text-decoration: none;
+}
+a:visited
+{  
+  text-decoration: none;
+}
+a:active
+{  
+  text-decoration: none;
+}
+a:hover
+{  
+  text-decoration: underline;
+}
+
+#youdonotexist
+{
+  color: #aa7755;
+  position: relative;
+  font-family: Monaco;
+}
+
+#important
+{  
+  font-size: 11px;
+  background: #5588aa;
+  color: #993344;
+  padding-left: 60;
+  margin: 5 210 0 0;
+}
+
+#question
+{
+  margin: 70 400 0 110;
+  font-family: Monaco;
+}
+
+#statement
+{ 
+  background: #331122;
+  color: #eeddff;
+  height: 212px;
+  width: 604px;
+  font-family: Monaco, Verdana;
+  margin: 0 30 0 100;
+}
+
+#help
+{
+  width: 40px;
+}
+
+a.nothingness:hover
+{  
+  text-decoration: none;
+  color: #331133
+  font-size: 13px;
+}
+
+.tiny
+{  
+  font-size: 13px;
+  color: #2244ee;
+}
